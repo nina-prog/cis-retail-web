@@ -1,6 +1,6 @@
 # Crisis Information System for Retail Customers
-Backend is located at 'retailWeb/PRIS (master), also on backend branch    
-Frontend is located at 'retailWeb/pris-frontend (master), also on frontend branch
+Backend is located at 'cis-retail-web/PRIS (master), also on backend branch    
+Frontend is located at 'cis-retail-web/pris-frontend (master), also on frontend branch
 
 ## Requirements
 - [JDK 1.8](http://www.oracle.com/technetwork/java/javase/downloads/index.html)  or later
