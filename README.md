@@ -1,4 +1,7 @@
 # Crisis Information System for Retail Customers
+This programming project aims to develop an information system to address the challenges faced by retail systems during pandemics, such as the current COVID-19 crisis. The project recognizes that pandemic regulations can weaken the economy and create panic buying behaviors, leading to shortages and overcrowded stores. The goal is to provide a solution that enables retail stores to efficiently distribute scarce goods and empowers customers with relevant information, including inventory levels, restricted opening hours, and product limitations. By developing this information system, the project aims to support retail systems in handling high demand, ensuring safety standards, and improving overall efficiency during pandemic situations. The practical course paper outlines the development and implementation of this information system.
+
+## Project Structure
 Backend is located at 'cis-retail-web/PRIS (master), also on backend branch    
 Frontend is located at 'cis-retail-web/pris-frontend (master), also on frontend branch
 
